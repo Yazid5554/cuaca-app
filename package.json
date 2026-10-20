@@ -1,0 +1,12 @@
+{
+  "name": "cuaca-app",
+  "version": "1.0.0",
+  "description": "Aplikasi cuaca sederhana pakai Node.js, Express, dan Open-Meteo API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

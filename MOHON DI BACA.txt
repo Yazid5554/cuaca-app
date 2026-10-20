@@ -1,0 +1,3 @@
+ini adalah node js berbasis website yg di lengkapi API cuaca untuk mengakses web nya jalankan perintah npm install lalu node app.js
+setelah itu buka localhost 3000 di brouser
+sekian terimakasih!
